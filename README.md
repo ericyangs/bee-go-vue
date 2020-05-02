@@ -1,6 +1,10 @@
 # bee-go-vue
 Build a simple todo list that use Go and Vue.js to implement.
 
+# Create database on mysql
+default
+task
+
 ##Stared
 you need have installed go env
 
